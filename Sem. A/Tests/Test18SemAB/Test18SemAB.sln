@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test18SemAB", "Test18SemAB\Test18SemAB.vcxproj", "{02045EE6-FA7F-447B-88DE-78B2E709F68E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02045EE6-FA7F-447B-88DE-78B2E709F68E}.Debug|x64.ActiveCfg = Debug|x64
+		{02045EE6-FA7F-447B-88DE-78B2E709F68E}.Debug|x64.Build.0 = Debug|x64
+		{02045EE6-FA7F-447B-88DE-78B2E709F68E}.Debug|x86.ActiveCfg = Debug|Win32
+		{02045EE6-FA7F-447B-88DE-78B2E709F68E}.Debug|x86.Build.0 = Debug|Win32
+		{02045EE6-FA7F-447B-88DE-78B2E709F68E}.Release|x64.ActiveCfg = Release|x64
+		{02045EE6-FA7F-447B-88DE-78B2E709F68E}.Release|x64.Build.0 = Release|x64
+		{02045EE6-FA7F-447B-88DE-78B2E709F68E}.Release|x86.ActiveCfg = Release|Win32
+		{02045EE6-FA7F-447B-88DE-78B2E709F68E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CA5D2A2-E397-4FF2-A85C-01DDAA8B3344}
+	EndGlobalSection
+EndGlobal
